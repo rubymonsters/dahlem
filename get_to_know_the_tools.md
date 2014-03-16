@@ -171,7 +171,7 @@ is the same as
 
 You should know that an array starts counting with 0. So the last one would be
 
-    planets.[3]
+    planets[3]
 
 
 #Saving code in files
