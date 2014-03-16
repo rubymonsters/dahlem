@@ -169,7 +169,7 @@ is the same as
 
     planets[0]
 
-You should know that an array starts counting with 0. So the last one would be
+You should know that an array starts counting with 0. So not existing is this one
 
     planets[3]
 
