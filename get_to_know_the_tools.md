@@ -5,7 +5,7 @@
 
 <p class="lead">Sublime Text, Komodo Edit, Vim, Emacs, and Gedit are examples of text editors your can use for writing code and editing files.</p>
 
--- <i class="icon-terminal icon-2x"> Terminal (known as Command Prompt on Windows)</i>
+-- <i class="icon-terminal icon-2x"> Terminal (on Windows please use the RUBY SHELL) </i>
 
 <p class="lead">Where you talk to your computer.</p>
 * Mac OS X: Open Spotlight, type Terminal and click the Terminal application.
@@ -83,7 +83,7 @@ The ruby terminal is an environment that understands and executes ruby code. You
 You can quite `irb` anytime by typing `exit`.
 
 ## Strings and Integers
-    
+
 Any English language literal needs to be put into quotation marks ("" or ''), they are called integers:
 
     "Hello World"
@@ -91,7 +91,7 @@ Any English language literal needs to be put into quotation marks ("" or ''), th
 These quotation marks are not needed for numbers:
 
     1 + 5
-    
+
 Ruby knows integers, no need to mark them specifically.
 
 ## Variables
@@ -100,7 +100,7 @@ Let's store something in a variable:
 
     planet = "earth"
 
-Variable names are always written in lower caps. 
+Variable names are always written in lower caps.
 
 Let's output the variable
 
@@ -155,7 +155,7 @@ Let's add some more planets directly (hit enter after each line)
 
 Let's just print out our array
 
-    planets 
+    planets
 
 Look at the size of it:
 
@@ -164,12 +164,12 @@ Look at the size of it:
 You can also print the first one:
 
     planets.first
-    
+
 is the same as
 
     planets.[0]
-    
-You should know that an array starts counting with 0. So the last one would be 
+
+You should know that an array starts counting with 0. So the last one would be
 
     planets.[3]
 
