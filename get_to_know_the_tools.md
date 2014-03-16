@@ -5,7 +5,7 @@
 
 <p class="lead">Sublime Text, Komodo Edit, Vim, Emacs, and Gedit are examples of text editors your can use for writing code and editing files.</p>
 
--- <i class="icon-terminal icon-2x"> Terminal (on Windows please use the RUBY SHELL) </i>
+-- <i class="icon-terminal icon-2x"> Terminal (on Windows please use the COMMAND PROMPT WITH RUBY ON RAILS) </i>
 
 <p class="lead">Where you talk to your computer.</p>
 * Mac OS X: Open Spotlight, type Terminal and click the Terminal application.
