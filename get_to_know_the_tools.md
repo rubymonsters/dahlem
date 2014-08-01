@@ -177,9 +177,13 @@ You should know that an array starts counting with 0. So not existing is this on
 #Saving code in files
 As you noticed, anytime you quit `irb` and go back in again, nothing was saved and you have to start all over again. In the long run you will want to save code in files.
 
-So let's create a file for saving ruby code:
+So let's create a file for saving ruby code (Linux, Mac OS X):
 
     touch blabla.rb
+    
+On Windows:
+
+    type NUL > 1.txt
 
 
 Let's open that file in your editor. Open your editor and in the menubar use File>>Open to open the file.
