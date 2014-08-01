@@ -183,7 +183,7 @@ So let's create a file for saving ruby code (Linux, Mac OS X):
     
 On Windows:
 
-    type NUL > 1.txt
+    type NUL > blabla.rb
 
 
 Let's open that file in your editor. Open your editor and in the menubar use File>>Open to open the file.
