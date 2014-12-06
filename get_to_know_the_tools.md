@@ -84,7 +84,7 @@ You can quite `irb` anytime by typing `exit`.
 
 ## Strings and Integers
 
-Any English language literal needs to be put into quotation marks ("" or ''), they are called integers:
+Any English language literal needs to be put into quotation marks ("" or ''), they are called strings:
 
     "Hello World"
 
